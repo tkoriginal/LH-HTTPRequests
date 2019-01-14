@@ -1,0 +1,1 @@
+const getHTML = require('../getHTML');
