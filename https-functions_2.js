@@ -9,4 +9,4 @@ function printHTML(html) {
   console.log(html);
 }
 
-getHTML(requestOption, printHTML);
+getHTML(requestOption, printHTML); 
